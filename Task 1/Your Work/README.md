@@ -191,7 +191,7 @@ The Pharmacy Management System is a standalone web application that may integrat
 
 > * **ENTITY-RELATIONSHIP DIAGRAM**
 >
->   <img src="images/er-diagram.png" alt="ER Diagram">
+>   <img src="images/1964ccdf-1d8f-4bef-9246-9f52d7e4c302 (6).png" alt="ER Diagram">
 
 > * **STATE DIAGRAM**
 >
@@ -229,9 +229,9 @@ The Pharmacy Management System is a standalone web application that may integrat
 
 ## Glossary
 
-| Term | Meaning                            |
-| ---- | ---------------------------------- |
-| ERP  | Enterprise Resource Planning       |
-| RBAC | Role-Based Access Control          |
-| API  | Application Programming Interface  |
+| Term | Meaning |
+|------|----------------------------------|
+| ERP  | Enterprise Resource Planning |
+| RBAC | Role-Based Access Control |
+| API  | Application Programming Interface |
 | GDPR | General Data Protection Regulation |
